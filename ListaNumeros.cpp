@@ -11,7 +11,7 @@ int lista[10];// Definición de la lista como variable global
 
 int main()
 {
-    cout<<" Bienvenido !"<<"\n Sistema de listado de numeros\n ----------------------------------"<<endl;
+    cout<<" Bienvenido !<<endl;
     cout<<"\n Puede ingresar hasta 10 numeros enteros, para ingresar menos, digite 15 \n";
 
     int numero, contador=0;
